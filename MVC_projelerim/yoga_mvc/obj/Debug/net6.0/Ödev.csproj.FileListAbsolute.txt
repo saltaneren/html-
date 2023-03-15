@@ -1,0 +1,202 @@
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\bin\Debug\net6.0\appsettings.json
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\bin\Debug\net6.0\Ödev.staticwebassets.runtime.json
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\bin\Debug\net6.0\Ödev.exe
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\bin\Debug\net6.0\Ödev.deps.json
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\bin\Debug\net6.0\Ödev.runtimeconfig.json
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\bin\Debug\net6.0\Ödev.dll
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\bin\Debug\net6.0\Ödev.pdb
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\Ödev.csproj.AssemblyReference.cache
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\Ödev.AssemblyInfoInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\Ödev.AssemblyInfo.cs
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\Ödev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cache
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cs
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\scopedcss\bundle\Ödev.styles.css
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\scopedcss\projectbundle\Ödev.bundle.scp.css
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\Ödev.dll
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\refint\Ödev.dll
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\Ödev.pdb
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\Ödev.genruntimeconfig.cache
+C:\Users\WT-OGRENCI-01\Desktop\Ödev\obj\Debug\net6.0\ref\Ödev.dll
+D:\Ödev\bin\Debug\net6.0\appsettings.Development.json
+D:\Ödev\bin\Debug\net6.0\appsettings.json
+D:\Ödev\bin\Debug\net6.0\Ödev.staticwebassets.runtime.json
+D:\Ödev\bin\Debug\net6.0\Ödev.exe
+D:\Ödev\bin\Debug\net6.0\Ödev.deps.json
+D:\Ödev\bin\Debug\net6.0\Ödev.runtimeconfig.json
+D:\Ödev\bin\Debug\net6.0\Ödev.dll
+D:\Ödev\bin\Debug\net6.0\Ödev.pdb
+D:\Ödev\obj\Debug\net6.0\Ödev.csproj.AssemblyReference.cache
+D:\Ödev\obj\Debug\net6.0\Ödev.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ödev\obj\Debug\net6.0\Ödev.AssemblyInfoInputs.cache
+D:\Ödev\obj\Debug\net6.0\Ödev.AssemblyInfo.cs
+D:\Ödev\obj\Debug\net6.0\Ödev.csproj.CoreCompileInputs.cache
+D:\Ödev\obj\Debug\net6.0\Ödev.MvcApplicationPartsAssemblyInfo.cache
+D:\Ödev\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cache
+D:\Ödev\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cs
+D:\Ödev\obj\Debug\net6.0\staticwebassets\msbuild.Ödev.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ödev\obj\Debug\net6.0\staticwebassets\msbuild.build.Ödev.props
+D:\Ödev\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ödev.props
+D:\Ödev\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ödev.props
+D:\Ödev\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ödev\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ödev\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ödev\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Ödev\obj\Debug\net6.0\scopedcss\bundle\Ödev.styles.css
+D:\Ödev\obj\Debug\net6.0\scopedcss\projectbundle\Ödev.bundle.scp.css
+D:\Ödev\obj\Debug\net6.0\Ödev.dll
+D:\Ödev\obj\Debug\net6.0\refint\Ödev.dll
+D:\Ödev\obj\Debug\net6.0\Ödev.pdb
+D:\Ödev\obj\Debug\net6.0\Ödev.genruntimeconfig.cache
+D:\Ödev\obj\Debug\net6.0\ref\Ödev.dll
+C:\Users\gizem\Desktop\Ödev\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gizem\Desktop\Ödev\bin\Debug\net6.0\appsettings.json
+C:\Users\gizem\Desktop\Ödev\bin\Debug\net6.0\Ödev.staticwebassets.runtime.json
+C:\Users\gizem\Desktop\Ödev\bin\Debug\net6.0\Ödev.exe
+C:\Users\gizem\Desktop\Ödev\bin\Debug\net6.0\Ödev.deps.json
+C:\Users\gizem\Desktop\Ödev\bin\Debug\net6.0\Ödev.runtimeconfig.json
+C:\Users\gizem\Desktop\Ödev\bin\Debug\net6.0\Ödev.dll
+C:\Users\gizem\Desktop\Ödev\bin\Debug\net6.0\Ödev.pdb
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\Ödev.csproj.AssemblyReference.cache
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\Ödev.AssemblyInfoInputs.cache
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\Ödev.AssemblyInfo.cs
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\Ödev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cache
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cs
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\staticwebassets\msbuild.Ödev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\staticwebassets\msbuild.build.Ödev.props
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ödev.props
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ödev.props
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\scopedcss\bundle\Ödev.styles.css
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\scopedcss\projectbundle\Ödev.bundle.scp.css
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\Ödev.dll
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\refint\Ödev.dll
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\Ödev.pdb
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\Ödev.genruntimeconfig.cache
+C:\Users\gizem\Desktop\Ödev\obj\Debug\net6.0\ref\Ödev.dll
+E:\DOTNET.CORE MVC\bin\Debug\net6.0\appsettings.Development.json
+E:\DOTNET.CORE MVC\bin\Debug\net6.0\appsettings.json
+E:\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.staticwebassets.runtime.json
+E:\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.exe
+E:\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.deps.json
+E:\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.runtimeconfig.json
+E:\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.dll
+E:\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.pdb
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.csproj.AssemblyReference.cache
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.AssemblyInfoInputs.cache
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.AssemblyInfo.cs
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.csproj.CoreCompileInputs.cache
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.MvcApplicationPartsAssemblyInfo.cache
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cache
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cs
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\staticwebassets.build.json
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\staticwebassets.development.json
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\scopedcss\bundle\Ödev.styles.css
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\scopedcss\projectbundle\Ödev.bundle.scp.css
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.dll
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\refint\Ödev.dll
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.pdb
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.genruntimeconfig.cache
+E:\DOTNET.CORE MVC\obj\Debug\net6.0\ref\Ödev.dll
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\bin\Debug\net6.0\appsettings.json
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.staticwebassets.runtime.json
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.exe
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.deps.json
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.runtimeconfig.json
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.dll
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.pdb
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.csproj.AssemblyReference.cache
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.AssemblyInfoInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.AssemblyInfo.cs
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.csproj.CoreCompileInputs.cache
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cache
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cs
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\scopedcss\bundle\Ödev.styles.css
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\scopedcss\projectbundle\Ödev.bundle.scp.css
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.dll
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\refint\Ödev.dll
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.pdb
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.genruntimeconfig.cache
+C:\Users\WT-OGRENCI-01\Desktop\DOTNET.CORE MVC\obj\Debug\net6.0\ref\Ödev.dll
+D:\mvcsson\DOTNET.CORE MVC\bin\Debug\net6.0\appsettings.Development.json
+D:\mvcsson\DOTNET.CORE MVC\bin\Debug\net6.0\appsettings.json
+D:\mvcsson\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.staticwebassets.runtime.json
+D:\mvcsson\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.exe
+D:\mvcsson\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.deps.json
+D:\mvcsson\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.runtimeconfig.json
+D:\mvcsson\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.dll
+D:\mvcsson\DOTNET.CORE MVC\bin\Debug\net6.0\Ödev.pdb
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.csproj.AssemblyReference.cache
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.GeneratedMSBuildEditorConfig.editorconfig
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.AssemblyInfoInputs.cache
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.AssemblyInfo.cs
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.csproj.CoreCompileInputs.cache
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.MvcApplicationPartsAssemblyInfo.cache
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cache
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cs
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\staticwebassets\msbuild.Ödev.Microsoft.AspNetCore.StaticWebAssets.props
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\staticwebassets\msbuild.build.Ödev.props
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ödev.props
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ödev.props
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\scopedcss\bundle\Ödev.styles.css
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\scopedcss\projectbundle\Ödev.bundle.scp.css
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.dll
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\refint\Ödev.dll
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.pdb
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\Ödev.genruntimeconfig.cache
+D:\mvcsson\DOTNET.CORE MVC\obj\Debug\net6.0\ref\Ödev.dll
+D:\MVC_projelerim\yoga_mvc\bin\Debug\net6.0\appsettings.Development.json
+D:\MVC_projelerim\yoga_mvc\bin\Debug\net6.0\appsettings.json
+D:\MVC_projelerim\yoga_mvc\bin\Debug\net6.0\Ödev.staticwebassets.runtime.json
+D:\MVC_projelerim\yoga_mvc\bin\Debug\net6.0\Ödev.exe
+D:\MVC_projelerim\yoga_mvc\bin\Debug\net6.0\Ödev.deps.json
+D:\MVC_projelerim\yoga_mvc\bin\Debug\net6.0\Ödev.runtimeconfig.json
+D:\MVC_projelerim\yoga_mvc\bin\Debug\net6.0\Ödev.dll
+D:\MVC_projelerim\yoga_mvc\bin\Debug\net6.0\Ödev.pdb
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\Ödev.csproj.AssemblyReference.cache
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\Ödev.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\Ödev.AssemblyInfoInputs.cache
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\Ödev.AssemblyInfo.cs
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\Ödev.csproj.CoreCompileInputs.cache
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\Ödev.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cache
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\Ödev.RazorAssemblyInfo.cs
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\staticwebassets\msbuild.Ödev.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\staticwebassets\msbuild.build.Ödev.props
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ödev.props
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ödev.props
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\staticwebassets.build.json
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\staticwebassets.development.json
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\scopedcss\bundle\Ödev.styles.css
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\scopedcss\projectbundle\Ödev.bundle.scp.css
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\Ödev.dll
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\refint\Ödev.dll
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\Ödev.pdb
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\Ödev.genruntimeconfig.cache
+D:\MVC_projelerim\yoga_mvc\obj\Debug\net6.0\ref\Ödev.dll
