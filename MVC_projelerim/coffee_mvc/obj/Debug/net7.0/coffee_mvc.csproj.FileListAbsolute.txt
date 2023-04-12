@@ -60,3 +60,8 @@ D:\MVC_projelerim\coffee_mvc\obj\Debug\net7.0\refint\coffee_mvc.dll
 D:\MVC_projelerim\coffee_mvc\obj\Debug\net7.0\coffee_mvc.pdb
 D:\MVC_projelerim\coffee_mvc\obj\Debug\net7.0\coffee_mvc.genruntimeconfig.cache
 D:\MVC_projelerim\coffee_mvc\obj\Debug\net7.0\ref\coffee_mvc.dll
+C:\Users\Büşra\Documents\GitHub\html-\MVC_projelerim\coffee_mvc\obj\Debug\net7.0\coffee_mvc.csproj.AssemblyReference.cache
+C:\Users\Büşra\Documents\GitHub\html-\MVC_projelerim\coffee_mvc\obj\Debug\net7.0\coffee_mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Büşra\Documents\GitHub\html-\MVC_projelerim\coffee_mvc\obj\Debug\net7.0\coffee_mvc.dll
+C:\Users\Büşra\Documents\GitHub\html-\MVC_projelerim\coffee_mvc\obj\Debug\net7.0\refint\coffee_mvc.dll
+C:\Users\Büşra\Documents\GitHub\html-\MVC_projelerim\coffee_mvc\obj\Debug\net7.0\coffee_mvc.pdb
